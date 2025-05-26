@@ -1,0 +1,47 @@
+[
+    {
+        "cep": "53180-080",
+        "logradouro": "Rua Córrego do Aureliano",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Águas Compridas",
+        "localidade": "Olinda",
+        "uf": "PE",
+        "estado": "Pernambuco",
+        "regiao": "Nordeste",
+        "ibge": "2609600",
+        "gia": "",
+        "ddd": "81",
+        "siafi": "2491"
+    },
+    {
+        "cep": "58038-200",
+        "logradouro": "Rua Waldir Belo Rabelo Pessoa da Costa",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Manaíra",
+        "localidade": "João Pessoa",
+        "uf": "PB",
+        "estado": "Paraíba",
+        "regiao": "Nordeste",
+        "ibge": "2507507",
+        "gia": "",
+        "ddd": "83",
+        "siafi": "2051"
+    },
+    {
+        "cep": "58040-740",
+        "logradouro": "Avenida Capitão João Freire",
+        "complemento": "até 385/386",
+        "unidade": "",
+        "bairro": "Torre",
+        "localidade": "João Pessoa",
+        "uf": "PB",
+        "estado": "Paraíba",
+        "regiao": "Nordeste",
+        "ibge": "2507507",
+        "gia": "",
+        "ddd": "83",
+        "siafi": "2051"
+    }
+]
